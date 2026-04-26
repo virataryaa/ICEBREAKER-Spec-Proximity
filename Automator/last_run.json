@@ -1,0 +1,86 @@
+{
+  "timestamp": "2026-04-26 21:59:49",
+  "files": [
+    {
+      "name": "cot_cit.parquet",
+      "size_kb": 231.5
+    },
+    {
+      "name": "cot_disagg.parquet",
+      "size_kb": 105.2
+    },
+    {
+      "name": "rollex_CC.parquet",
+      "size_kb": 419.0
+    },
+    {
+      "name": "rollex_CT.parquet",
+      "size_kb": 458.3
+    },
+    {
+      "name": "rollex_KC.parquet",
+      "size_kb": 441.8
+    },
+    {
+      "name": "rollex_LCC.parquet",
+      "size_kb": 405.1
+    },
+    {
+      "name": "rollex_LSU.parquet",
+      "size_kb": 444.5
+    },
+    {
+      "name": "rollex_RC.parquet",
+      "size_kb": 407.3
+    },
+    {
+      "name": "rollex_SB.parquet",
+      "size_kb": 403.6
+    }
+  ],
+  "specs": [
+    {
+      "ticker": "KC",
+      "label": "Arabica",
+      "latest_cot_date": "21/04/2026",
+      "net_spec_k": 39.3,
+      "wow_chg_k": -4.3
+    },
+    {
+      "ticker": "RC",
+      "label": "Robusta",
+      "latest_cot_date": "21/04/2026",
+      "net_spec_k": 8.3,
+      "wow_chg_k": 3.5
+    },
+    {
+      "ticker": "SB",
+      "label": "Sugar",
+      "latest_cot_date": "21/04/2026",
+      "net_spec_k": 35.1,
+      "wow_chg_k": -32.7
+    },
+    {
+      "ticker": "CC",
+      "label": "Cocoa (NYC)",
+      "latest_cot_date": "21/04/2026",
+      "net_spec_k": 7.4,
+      "wow_chg_k": 0.1
+    },
+    {
+      "ticker": "LCC",
+      "label": "Liffe Cocoa",
+      "latest_cot_date": "21/04/2026",
+      "net_spec_k": -31.2,
+      "wow_chg_k": 1.9
+    },
+    {
+      "ticker": "CT",
+      "label": "Cotton",
+      "latest_cot_date": "21/04/2026",
+      "net_spec_k": 133.8,
+      "wow_chg_k": 12.5
+    }
+  ],
+  "errors": []
+}
